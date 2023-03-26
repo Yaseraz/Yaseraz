@@ -17,4 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yaseraz&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/armantunga/armantunga/blob/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=armantunga&icon=0&color=6)](https://visitcount.itsvg.in)
