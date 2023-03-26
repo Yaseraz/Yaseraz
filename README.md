@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Data Science Machine Learning Bootcamp<br>💬 Ask me about Python<br>
+🌱 I’m currently learning Data Science Machine Learning, in Bootcamp<br>💬 Ask me about Data<br>
 
 
 ## 🌐 Socials:
