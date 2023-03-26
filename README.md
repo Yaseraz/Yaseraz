@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Data Science Machine Learning, in Bootcamp<br>💬 Ask me about Data<br>
+🔭 I’m currently working on Data Sciencenad Machine Learning
+
+🌱 I’m currently learning DS and ML in Miuul DS & ML Bootcamp
+
+💬 Ask me about anything
+
 
 
 ## 🌐 Socials:
