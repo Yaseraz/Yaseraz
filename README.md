@@ -19,8 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaseraz&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseraz&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=yaseraz&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/armantunga/armantunga/blob/output/github-contribution-grid-snake.svg)
 
