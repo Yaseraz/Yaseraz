@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💫 About Me:
-## 💫 About Me:<br>🔭 I’m currently working on Data Science and Machine Learning<br><br>🌱 I’m currently learning DL<br><br>💬 Ask me about anything
+## 💫 About Me:<br>🔭 I’m currently working as Data Scientist <br><br>🌱 I’m currently learning CV<br><br>💬 Ask me about anything
 
 
 
