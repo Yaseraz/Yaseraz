@@ -20,8 +20,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=yaseraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![Snake animation](https://github.com/armantunga/armantunga/blob/output/github-contribution-grid-snake.svg)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=armantunga&icon=0&color=6)](https://visitcount.itsvg.in)
